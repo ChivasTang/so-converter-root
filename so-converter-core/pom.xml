@@ -12,18 +12,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>jp.co.nttcom.business.converter</groupId>
-            <artifactId>so-converter-core</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>jp.co.nttcom.business.converter</groupId>
-            <artifactId>so-converter-batch</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>jp.co.nttcom.business.converter</groupId>
-            <artifactId>so-converter</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
             <exclusions>
